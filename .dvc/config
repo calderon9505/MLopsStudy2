@@ -1,0 +1,4 @@
+[core]
+    remote = wine_remote
+['remote "wine_remote"']
+    url = s3://clean-zone-sca/dvc/
